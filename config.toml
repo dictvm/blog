@@ -103,7 +103,6 @@ pygmentscodefencesguesssyntax = true
 
     [languages.de-de]
         languagename = "German"
-        title = "João Ninguém"
 
         [languages.de-de.params]
             author = "Daniel Heitmann"
