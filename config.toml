@@ -1,4 +1,4 @@
-baseurl = "http://dictvm.org"
+baseurl = "/"
 title = "Daniel's (placeholder)"
 
 theme = "hugo-coder"
