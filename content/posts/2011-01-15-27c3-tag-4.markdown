@@ -1,0 +1,21 @@
+---
+layout: post
+title: '27C3: Tag 4'
+date: '2011-01-15 19:39:35'
+tags:
+- openleaks
+---
+
+Tag 4: 
+
+Mein Wecker sollte um 10:15 schellen. Hat er wohl auch, nur habe ich davon nichts mitbekommen, so dass mich Gerrit um 11:40 nochmal darauf hinweisen musste, dass es klug wäre, jetzt mal aufzustehen, weil wir in 20 Minuten auschecken müssten. Auf die Frage, warum ihm das erst jetzt auffällt und der Hinweis so kurz vor knapp kommt, hieß es, er habe mich da im 20-Minuten-Takt auf dem Laufenden gehalten. Oh.
+
+Schnell unter die Dusche, umgezogen, die genervten Blicke von den Hotel-Angestellten ertragen, als ich um 12:05 immer noch nicht ganz fertig war. Tut mir ja Leid, wirklich. :-)
+
+Mit dem Auto haben wir dann noch schnell in der Hasenheide einen Kaffee getrunken und gefrühstückt. Leider konnten wir nicht lange im BCC bleiben, weil Dorfhuhn noch eine etwa sechstündige Fahrt vor sich hatte. Es reichte zeitlich also noch so gerade für den Vortrag über Traffic-Analyse- und Monitoring-Appliances, die gestackt Terabit(!)-Traffic analysieren können - in Echtzeit. Füttert man die Dinger mit einer Liste von Mail-Adressen schneiden die fleissig sämtlichen Mailverkehr von gelisteten Personen mit - zu bequem, für meinen Geschmack. Mit einem SSL-Terminator, z.B. für's Loadbalancing, führt das auch SSL ad absurdum, wenn der ISP sowohl die Anbindung als auch den Mailserver kontrolliert, dann terminiert die SSL-Verschlüsselung nämlich einfach und die Netzwerk-Tap-Blackbox snifft den Traffic nach erfolter Entschlüsselung mit, ohne dass dem Nutzer das auffallen könnte. Das macht ganz deutlich: Richtet eure eigenen Mailserver ein, verlasst euch nicht auf irgendwelche multi-redundanten Mailcluster von großen ISPs - schon gar nicht, wenn ihr SSL aus Naivität heraus für "sicher genug" haltet und kein PGP/GPG verwendet. Die Crypto bringt nichts, wenn der SSL-Traffic Provider-seitig schon vor der eigentlichen Kommunikation mit dem Mailserver den Traffic entschlüsselt wird. Der Sprecher beschrieb dann noch die Web-Interfaces der einzelnen Appliances, die alle nicht sonderlich sicher seien und rief dazu auf, eventuell eingetragene Blacklisten unter keinen Umständenabzugreifen (und wohl auch zu veröffentlichen!), wenn man Zugriff darauf hat. Sowas macht man einfach nicht. :-) 
+
+Allgemein scheinen die Web-Zugänge zu diesen System nicht sonderlich sicher zu sein, so dass er auch dazu riet, nicht zu gucken, wie man solche Systeme findet, um sich daran auszutoben. :-)
+
+Kurzfristig wurde ein Talk zu OpenLeaks, dem Whistleblowing-Projekt vom ehemaligen WikiLeaks-Sprecher Daniel Domscheit-Berg anberaumt. Leider befanden wir uns da bereits auf dem Rückweg. Der Versuch, die Slides mit Audio auf der Autobahn über eine zwischen GPRS und UMTS fluktuierende Verbindung zu gucken, war nicht von Erfolg gekrönt, weil der Stream ständig abbrach, wenn das entknastete iPhone seine Funkzelle wechselte. 
+
+Der Chaos Communication Congress wird jedenfalls zu einer Pflichtveranstaltung. Dieses Jahr, wir schreiben mittlerweile 2011, werde ich mich aber bemühen, nicht wieder irgendwelche hoch interessanten Vorträge zu verschlafen.
