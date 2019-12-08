@@ -13,6 +13,7 @@ Apart from the doing stuff with computers, I spend a lot of time with my amazing
 
 ### Contact
 WhatsApp: [+49 174 2456550](tel:00491742456550)
+
 Telegram: [t.me/dictvm](https://t.me/@dictvm)
 
 ### Social
