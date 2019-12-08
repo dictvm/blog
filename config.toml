@@ -3,6 +3,8 @@ title = "Daniel's (placeholder)"
 
 theme = "hugo-coder"
 
+googleAnalytics = "UA-56464004-1"
+
 languagecode = "en"
 defaultcontentlanguage = "en"
 
