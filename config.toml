@@ -108,10 +108,10 @@ pygmentscodefencesguesssyntax = true
 
         [languages.de-de.params]
             author = "Daniel Heitmann | dictvm"
-            description = "Gedanken eines Cloud System Engineers"
+            description = "Gedanken eines System Engineers"
             keywords = "blog,developer,personal,devops,sre,cloudcomputing,kubernetes"
-            info = "Site Reliality Engineer bei trivago"
-            footercontent = "Derzeit nicht für Consultig-Aufträge verfügbar."
+            info = "Site Reliability Engineer bei trivago"
+            footercontent = "Ich bin derzeit nicht für Consultig-Aufträge verfügbar."
 
         [languages.de-de.menu]
 
