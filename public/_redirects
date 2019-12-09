@@ -1,1 +1,1 @@
-http://blog.dictvm.org http://dictvm.org/posts/
+http://blog.dictvm.org http://dictvm.org/posts/:splat 301!
