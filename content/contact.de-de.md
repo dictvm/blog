@@ -1,6 +1,6 @@
 +++
-title = "Contato"
+title = "Kontakt"
 slug = "contact"
 +++
 
-Me siga em @joaoninguem.
+Kontaktdaten folgen hier
