@@ -1,3 +1,9 @@
+---
+layout: post
+title: "An Ode to Dark Fortress"
+date: 2020-01-03 10:00:00
+---
+
 This text was originally written sometime in 2014 to commemorate the 10 year anniversary since the release of one of my favorite albums of the genre, but was never published. It has been updated throughout the years.
 
 It was in early 2004 when I first came into contact with Dark Fortress. I bought a german Metal magazine that came with a sampler, which was a CD filled with a couple of new songs from various bands. Even back then, those CDs almost never contained anything of interest. Most of my music came from the Internet anyways. But there was this one Death Metal act that had released a new album, even though I can't remember their name right now. They had a new song on that sampler and I couldn't find it online but I wanted to give it a listen.
