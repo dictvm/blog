@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Expose Prometheus Metrics for Kubernetes' Cluster-Autoscaler"
-date: 2018-04-08 00:26:00
+date: 2019-04-08 00:26:00
 ---
 
 If you intend to leverage autoscaling on Kubernetes, you may want the [Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler) to expose some metrics for you. It's pretty simple to a) enable access to the `/metrics` route and b) instruct your Prometheus to scrape it:
