@@ -15,6 +15,9 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[permalinks]
+posts = "/:title/"
+
 [params]
     author = "Daniel Heitmann | dictvm"
     description = "Thoughts of a systems engineer with his head up in the cloud"
