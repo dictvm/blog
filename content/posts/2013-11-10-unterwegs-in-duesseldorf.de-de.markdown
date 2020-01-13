@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Unterwegs in Düsseldorf #1'
+title: 'Unterwegs in Düsseldorf'
 date: '2013-11-10 21:23:58'
 ---
 
 Ich nehme mir viel zu wenig Zeit, um einfach mal zu entspannen. Heute hat sich spontan ergeben, dass meine Freundin wider Erwarten doch nicht mehr vorbei kommt, also habe ich mir einfach die Kamera geschnappt und bin durch Düsseldorf gelaufen. Gerade in Anbetracht dessen, dass ich mit dem Gedanken spiele, Anfang 2014 noch einmal umzuziehen, bot es sich an, den Rest des Tages zu nutzen um mich etwas umzusehen. Und weil mir das so gut gefallen hat, mache ich daraus jetzt einfach eine Serie, die ich alle paar Wochen fortführen werde.
 
-Gestartet bin ich vor meiner Haustür in Derendorf, von wo aus ich mich dann langsam zum Stadtteil Zoo geschlendert bin. Von dort verschlug es mich nach Pempelfort und nahm auf dem Rückweg einen kleinen Umweg auf mich, so dass ich noch an der S-Bahn-Haltestelle Zoo vorbei kam. Die Aufnahmen habe ich allesamt mit der 1000D von [Robert](http://robertclausen.de/) gemacht, aus denen ich mir die besten herausgepickt und sie bei [flickr](http://www.flickr.com/photos/imperarvm/sets/72157637527107784/) publiziert habe. Sie stehen natürlich alle unter einer freien Creative Commons-Lizenz und die RAW-Aufahmen gibts auf Anfrage, falls da jemand was mit anfangen mag. 
+Gestartet bin ich vor meiner Haustür in Derendorf, von wo aus ich mich dann langsam zum Stadtteil Zoo geschlendert bin. Von dort verschlug es mich nach Pempelfort und nahm auf dem Rückweg einen kleinen Umweg auf mich, so dass ich noch an der S-Bahn-Haltestelle Zoo vorbei kam. Die Aufnahmen habe ich allesamt mit der 1000D von [Robert](http://robertclausen.de/) gemacht, aus denen ich mir die besten herausgepickt und sie bei [flickr](http://www.flickr.com/photos/imperarvm/sets/72157637527107784/) publiziert habe. Sie stehen natürlich alle unter einer freien Creative Commons-Lizenz und die RAW-Aufahmen gibts auf Anfrage, falls da jemand was mit anfangen mag.
 
 Irgendwo zwischen Zoo und Pempelfort habe ich eine kurze Pause eingelegt und im mir bis dato unbekannten [Eiscafé Talamini](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2693!2d6.8014413!3d51.2386698!4m12!2m11!1m10!1s0x0%3A0xa1a9bed55ea97fba!3m8!1m3!1d26081603!2d-95.677068!3d37.0625!3m2!1i1024!2i768!4f13.1) einen unglaublich intensiv schmeckenden Kaffee getrunken:
 
