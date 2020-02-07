@@ -3,7 +3,7 @@ title = "About me"
 slug = "about"
 +++
 
-My name is Daniel Heitmann and I’m a Site Reliability Engineer at trivago.
+My name is Daniel Heitmann and I’m a Site Reliability Engineer at trivago while also offering consulting services.
 
 I’m moving YAML around and glueing various open source components together to form reliable systems at scale. I also occasionally contribute back to some of those projects.
 
