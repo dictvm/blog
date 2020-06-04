@@ -1,6 +1,6 @@
 +++
-title = "Projetos"
+title = "Projekte"
 slug = "projects"
 +++
 
-Em construção... Aguarde!
+Nicht übersetzt.
