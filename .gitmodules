@@ -1,6 +1,3 @@
-[submodule "themes/hugo-coder"]
-	path = themes/hugo-coder
-	url = https://github.com/dictvm/hugo-coder.git
-[submodule "themes/hugo-coer"]
-	path = themes/hugo-coer
+[submodule "hugo-coder"]
+	path = hugo-coder
 	url = git@github.com:luizdepra/hugo-coder.git
