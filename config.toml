@@ -16,16 +16,16 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [permalinks]
-posts = "/:title/"
+posts = "/posts/:title/"
 
 [params]
     author = "Daniel Heitmann | dictvm"
     description = "Thoughts of a systems engineer with his head up in the cloud"
     keywords = "blog,developer,sre,sitereliabilityengineering,duesseldorf,personal,devops,sre,cloudcomputing,kubernetes"
     info = "Cloud Engineer, Coffee Snob, Cyclist, Vegan. 4 bikes, 3 cats."
-    subinfo = "Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native Software"
+    subinfo = "Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native Software, Cycling, Urban Development, Black Metal"
     avatarurl = "images/daniel.jpg"
-    footercontent = "I'm currently not available for hire."
+    footercontent = ""
 
     dateformat = "January 2, 2006"
 
