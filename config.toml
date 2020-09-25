@@ -118,8 +118,8 @@ posts = "/posts/:title/"
         [languages.de-de.params]
             author = "Daniel Heitmann | dictvm"
             description = "Gedanken eines System Engineers"
-            keywords = "blog,developer,personal,devops,sre,cloudcomputing,kubernetes"
-            info = "Site Reliability Engineer bei trivago"
+            keywords = "blog,developer,personal,devops,sre,cloudcomputing,kubernetes,fahrradkultur,bicycling,rennrad"
+            info = "Cloud Engineering, Kaffee, Radfahrer, Veganismus. 4 Fahrräder, 3 Katzen."
             footercontent = "Ich bin derzeit nicht für Consultig-Aufträge verfügbar."
 
         [languages.de-de.menu]
