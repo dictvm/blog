@@ -8,7 +8,7 @@ googleAnalytics = "UA-56464004-1"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 15
+paginate = 10
 canonifyurls = true
 
 pygmentsstyle = "b2"
