@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Micropayments via Scroll.com"
-date: 2020-10-27 01:00:00
+title: "Micropayments are probably the future of news publishing"
+date: 2020-12-16 01:00:00
 ---
 
-Every now and then, I worry about the state of news and an reporting on the Internet. Free access to high quality news reporting is often considered to be a birth-defect or the original sin of the Internet, since it forces publishers to live off of advertising, leading to engagement becoming the primary KPI to target. People's attention is easier to catch by creating a reality in which there's no nuance, where there's just good and evil, black and white, democrat and republican - you get the gist of it. There have been attempts to fix the news 
+Every now and then, I worry about the state of news and reporting on the Internet. Free access to high quality news reporting is often considered to be a birth-defect or the original sin of the Internet, since it forces publishers to live off of advertising, leading to engagement becoming the primary KPI to target. Not to forget that publications might be less critical torwards big advertisers. People's attention is also easier to catch by creating a reality in which there's no nuance, where there's just good and evil, black and white, democrat and republican - you get the gist of it. There have been attempts to fix the news but none actually gained sufficient traction to actually matter.
 
+I couple of months ago I stumbled upon [Scroll](https://scroll.com/friend/gu44o107b7633bf2i1j75kp0lf) via Twitter. Scroll works by collecting a small fee from all of their users that is split to partipating partner publications based on each user's time spent on the respective publication. In return their users get to view partnering site without advertising. While I'm not crazy enough to use the Internet without an adblocker, I still want to ensure the survival of a couple of publications that I enjoy to read, whether they focus on politics, gadgets or culture. Knowing that I'm doing my part by paying a small fee each month to keep the flow of interesting content and heavily researched analysis coming, is a pretty good feeling. A couple of publications that I consume regularly already support Scroll and I hope Scroll will keep on growing.
 
+I don't believe that having one subscription for each publication you're interested in is going to scale. Keeping track of Netflix, Amazon Prime, Spotify, Youtube Premium, Disney+ and Apple+ is already extremely annoying. Now imagine you'd be quite well off in financial terms and you wanted to ensure the long-term survival of a couple of publications that you care for, especially in times where right-wing publications have the advantage of not having to fact-check anything.
 
-[Scroll](https://scroll.com/friend/gu44o107b7633bf2i1j75kp0lf) via Twitter and since I’ve been telling a lot 
+To pay for subscriptions to The New York Times, The Washington Post, The Atlantic, The Guardian, Sueddeutsche Zeitung and taz (die tageszeitung), you'd be forced to not hust deal with different login mechanisms (of which not all support Single Sign On with e.g. your Google account) but different payment systems that each require you to manually update your credit card information every few years while smaller ones probably don't even support credit cards, because they're not that common in Germany. It'll also be quite expensive, even if you just subscribed to a subset of 1-2 publications that you most likely won't be able to read in their entirety anyways. Their pricing schemes aren't very straight-forward either, since they try to lure you in by having special offers where the first 3 months are a lot cheaper than the actual monthly rate of the subscription throughout the year. No one wants to deal with that.
+
+In the long run, there will be one service that'll handle distributing money from paying users to indiviual publications based on various metrics. I woulnd't be surprised if it turned out that something like Scroll might just fill that niche, even though they don't offer access to subscription-exclusive content yet*.
+
+(* that I know of)
