@@ -2,6 +2,7 @@ baseurl = "https://www.dictvm.org/"
 title = "Daniel Heitmann"
 
 theme = "hugo-coder"
+colorscheme = "auto"
 
 googleAnalytics = "UA-56464004-1"
 
@@ -56,32 +57,32 @@ posts = "/posts/:title/"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/dictvm"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter"
+    icon = "fa fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/dictvm"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-linkedin fa-2x"
     weight = 4
     url = "https://www.linkedin.com/in/danielheitmannsre"
 [[params.social]]
     name = "Medium"
-    icon = "fab fa-medium"
+    icon = "fa fa-medium fa-2x"
     weight = 5
     url = "https://medium.com/@dictvm"
 [[params.social]]
     name = "Instagram"
-    icon = "fab fa-instagram"
+    icon = "fa fa-instagram fa-2x"
     weight = 6
     url = "https://instagram.com/dictvm"
 [[params.social]]
     name = "RSS"
-    icon = "fas fa-rss"
+    icon = "fa fa-rss fa-2x"
     weight = 6
     url = "https://dictvm.org/index.xml"
     rel = "alternate"
@@ -110,36 +111,3 @@ posts = "/posts/:title/"
         name = "Contact me"
         weight = 5
         url = "contact/"
-
-
-    [languages.de-de]
-        languagename = "German"
-
-        [languages.de-de.params]
-            author = "Daniel Heitmann | dictvm"
-            description = "Gedanken eines System Engineers"
-            keywords = "blog,developer,personal,devops,sre,cloudcomputing,kubernetes,fahrradkultur,bicycling,rennrad"
-            info = "Cloud Engineering, Kaffee, Radfahrer, Veganismus. 4 Fahrräder, 3 Katzen."
-            footercontent = "Ich bin derzeit nicht für Consultig-Aufträge verfügbar."
-
-        [languages.de-de.menu]
-
-            [[languages.de-de.menu.main]]
-            name = "Über mich"
-            weight = 1
-            url = "about/"
-
-            [[languages.de-de.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.de-de.menu.main]]
-            name = "Projekte"
-            weight = 3
-            url = "projects/"
-
-            [[languages.de-de.menu.main]]
-            name = "Kontakt"
-            weight = 5
-            url = "contact/"
