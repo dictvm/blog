@@ -1,0 +1,83 @@
+baseurl: "https://www.dictvm.org/"
+title: Daniel Heitmann | dictvm
+theme: PaperMod
+googleAnalytics: UA-56464004-1
+languagecode: en
+defaultcontentlanguage: en
+paginate: 15
+canonifyurls: true
+pygmentsstyle: b2
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+permalinks:
+  posts: "/posts/:title/"
+params:
+  author: Daniel Heitmann | dictvm
+  profileMode:
+    enabled: false
+    imageUrl: images/daniel.jpg
+    title: Hi!
+
+  keywords: >-
+    blog,developer,sre,sitereliabilityengineering,duesseldorf,personal,devops,sre,cloudcomputing,kubernetes,blackmetal
+  info: "Cloud, Coffee, Cycling, Veganism, Antifascism & Black Metal."
+  subinfo: >-
+    Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native
+    Software, Cycling, Urban Development, Black Metal
+
+  footercontent: ""
+  dateformat: "January 2, 2006"
+  hideCredits: false
+  hideCopyright: false
+  defaultTheme: auto
+  ShowReadingTime: true
+  maxSeeAlsoItems: 5
+  custom_css: []
+  custom_js: []
+  social:
+    - name: Github
+      icon: fab fa-github
+      weight: 1
+      url: "https://github.com/dictvm"
+    - name: Twitter
+      icon: fab fa-twitter
+      weight: 3
+      url: "https://twitter.com/dictvm"
+    - name: LinkedIn
+      icon: fab fa-linkedin
+      weight: 4
+      url: "https://www.linkedin.com/in/danielheitmannsre"
+    - name: Medium
+      icon: fab fa-medium
+      weight: 5
+      url: "https://medium.com/@dictvm"
+    - name: Instagram
+      icon: fab fa-instagram
+      weight: 6
+      url: "https://instagram.com/dictvm"
+    - name: RSS
+      icon: fas fa-rss
+      weight: 6
+      url: "https://dictvm.org/index.xml"
+      rel: alternate
+      type: application/rss+xml
+languages:
+  en:
+    languagename: English
+    menu:
+      main:
+        - name: About
+          weight: 1
+          url: about/
+        - name: Blog
+          weight: 2
+          url: posts/
+        - name: Projects
+          weight: 3
+          url: projects/
+        - name: Buy me a Coffee
+          weight: 4
+          url: https://ko-fi.com/dictvm
+        - name: Reach out/Impressum
+          weight: 5
+          url: contact/
