@@ -13,10 +13,27 @@ permalinks:
   posts: "/posts/:title/"
 params:
   author: Daniel Heitmann | dictvm
-  profileMode:
-    enabled: false
+  homeInfoParams:
+    enabled: true
     imageUrl: images/daniel.jpg
-    title: Hi!
+    Title: Hi and welcome!
+    Content: I'm Daniel, writing about topics ranging from Cloud Infrastructure, Site Reliability Engineering, bicycles, Black Metal, politics and whatever rabbit hole I'm following at the time.
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/dictvm"
+    - name: "Twitter"
+      url: "https://twitter.com/dictvm"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/danielheitmannsre"
+    - name: "Medium"
+      url: "https://medium.com/@dictvm"
+    - name: "Instagram"
+      url: "https://instagram.com/dictvm"
+    - name: "RSS"
+      url: "https://dictvm.org/index.xml"
+      rel: alternate
+      type: application/rss+xml
 
   keywords: >-
     blog,developer,sre,sitereliabilityengineering,duesseldorf,personal,devops,sre,cloudcomputing,kubernetes,blackmetal
@@ -34,50 +51,22 @@ params:
   maxSeeAlsoItems: 5
   custom_css: []
   custom_js: []
-  social:
-    - name: Github
-      icon: fab fa-github
+
+menu:
+  main:
+    - name: About
       weight: 1
-      url: "https://github.com/dictvm"
-    - name: Twitter
-      icon: fab fa-twitter
+      url: about/
+    - name: Blog
+      weight: 2
+      url: posts/
+    - name: Projects
       weight: 3
-      url: "https://twitter.com/dictvm"
-    - name: LinkedIn
-      icon: fab fa-linkedin
+      url: projects/
+    - name: Buy me a ☕
       weight: 4
-      url: "https://www.linkedin.com/in/danielheitmannsre"
-    - name: Medium
-      icon: fab fa-medium
-      weight: 5
-      url: "https://medium.com/@dictvm"
-    - name: Instagram
-      icon: fab fa-instagram
-      weight: 6
-      url: "https://instagram.com/dictvm"
-    - name: RSS
-      icon: fas fa-rss
-      weight: 6
-      url: "https://dictvm.org/index.xml"
+      url: https://ko-fi.com/dictvm
       rel: alternate
-      type: application/rss+xml
-languages:
-  en:
-    languagename: English
-    menu:
-      main:
-        - name: About
-          weight: 1
-          url: about/
-        - name: Blog
-          weight: 2
-          url: posts/
-        - name: Projects
-          weight: 3
-          url: projects/
-        - name: Buy me a Coffee
-          weight: 4
-          url: https://ko-fi.com/dictvm
-        - name: Reach out/Impressum
-          weight: 5
-          url: contact/
+    - name: Reach out
+      weight: 5
+      url: contact/
