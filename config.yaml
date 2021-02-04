@@ -20,20 +20,22 @@ params:
     Content: I'm Daniel, writing about topics ranging from Cloud Infrastructure, Site Reliability Engineering, bicycles, Black Metal, politics and whatever rabbit hole I'm following at the time.
 
   socialIcons: # optional
-    - name: "Github"
-      url: "https://github.com/dictvm"
-    - name: "Twitter"
-      url: "https://twitter.com/dictvm"
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/danielheitmannsre"
-    - name: "Medium"
-      url: "https://medium.com/@dictvm"
-    - name: "Instagram"
-      url: "https://instagram.com/dictvm"
     - name: "RSS"
       url: "https://dictvm.org/index.xml"
       rel: alternate
       type: application/rss+xml
+    - name: "Github"
+      url: "https://github.com/dictvm"
+    - name: "Twitter"
+      url: "https://twitter.com/dictvm"
+    - name: "Instagram"
+      url: "https://instagram.com/dictvm"
+    - name: "Ko-Fi"
+      url: "https://ko-fi.com/dictvm"
+    - name: "Medium"
+      url: "https://medium.com/@dictvm"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/danielheitmannsre"
 
   keywords: >-
     blog,developer,sre,sitereliabilityengineering,duesseldorf,personal,devops,sre,cloudcomputing,kubernetes,blackmetal
