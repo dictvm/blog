@@ -13,11 +13,11 @@ permalinks:
   posts: "/posts/:title/"
 params:
   author: Daniel Heitmann | dictvm
-  homeInfoParams:
+  profileMode:
     enabled: true
     imageUrl: images/daniel.jpg
-    Title: Hi and welcome!
-    Content: I'm Daniel, writing about topics ranging from Cloud Infrastructure, Site Reliability Engineering, bicycles, Black Metal, politics and whatever rabbit hole I'm following at the time.
+    title: Hi and welcome!
+    subtitle: I'm Daniel, writing about topics ranging from Cloud Infrastructure, Site Reliability Engineering, bicycles, Black Metal, politics and whatever rabbit hole I'm following at the time.
 
   socialIcons: # optional
     - name: "RSS"
