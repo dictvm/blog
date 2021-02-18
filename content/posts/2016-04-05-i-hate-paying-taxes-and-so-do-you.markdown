@@ -14,7 +14,7 @@ Taxes equal to money taken from you and me, without *any accountability*. I have
 
 Of course, I won‘t. The system was never meant to work this way and we should demand changing that. Bringing more transparency to the way our government handles taxes will benefit everyone in the long run. 
 
-#### Make paying taxes ~~great~~ cool again. 
+#### Make paying taxes something that's brag-worthy 
 
 Make it a priority for tax offices to release a quarterly statement containing interesting graphs and conclusions which lists the projects that were funded at to what percentage by the taxes we paid to the tax office. Make it clear that paying taxes is improving the lives of everyone, whether they live in a big city or a rural country side. Remind government officials that their salary is being paid by the people who pay taxes. Companies should be encouraged to brag in PR about paying their taxes, as they do with being green and sustainable. Prove to me that I made an impact by paying my taxes. 
 
