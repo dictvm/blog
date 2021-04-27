@@ -14,7 +14,11 @@ I love recipes that don't make me think so I can listen to music or podcasts whi
 
 ## Ciabatta with veggies 
 
-![picture of a ciabatta bread with veggies](/images/ciabatta.jpg)
+![picture of a ciabatta bread with veggies](../images/ciabatta.jpg)
+![picture of a ciabatta bread with veggies](images/ciabatta.jpg)
+![picture of a ciabatta bread with veggies](./images/ciabatta.jpg)
+
+
 
 ## What you need: 
 * ciabatta bread (I recommend a long one)
