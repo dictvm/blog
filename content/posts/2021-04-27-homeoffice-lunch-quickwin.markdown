@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Home office recipe: Ciabatta with italian veggies"
+title: "Home office recipe: Ciabatta with veggies"
 date: 2021-04-27 01:00:00
 ---
 
-I hate recipes that start with the life story of the author, so feel free to skip to the [recipe](#Recipe). Since we're all stuck at home for more than a year, I'm sure you can relate: Every day with lunch time coming closer, the looming question arises: What should I/we eat? I'll share a quick recipe with you that doesn't require much preparation time.
+I hate recipes that start with the life story of the author, so feel free to skip to the [recipe](#recipe). Since we're all stuck at home for more than a year, I'm sure you can relate: Every day with lunch time coming closer, the looming question arises: What should I/we eat? I'll share a quick recipe with you that doesn't require much preparation time.
 
 Coming from companies where we had chefs to prepare food, it took some getting used to the new situation but over the past year we've gotten pretty good at having lunch ready between 12:00/13:00 and the topic hasn't become much of an issue. Sometimes we opt for ordering take-out/food delivery but we try to keep it at around 2 times per week.
 
@@ -12,9 +12,9 @@ I love recipes that don't make me think so I can listen to music or podcasts whi
 
 # Recipe
 
-## Ciabatta with italian veggies 
+## Ciabatta with veggies 
 
-![picture of a ciabatta bread with veggies](/ciabatta.jpg)
+![picture of a ciabatta bread with veggies](/images/ciabatta.jpg)
 
 ## What you need: 
 * ciabatta bread (I recommend a long one)
@@ -42,7 +42,3 @@ I love recipes that don't make me think so I can listen to music or podcasts whi
 * make sure your spices are spread evenly
 * take the ciabatta out of the oven, open up the ciabatta, put the veggies on it
 * enjoy
-
-
-
-
