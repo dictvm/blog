@@ -21,7 +21,7 @@ params:
 
   socialIcons: # optional
     - name: "RSS"
-      url: "https://dictvm.org/index.xml"
+      url: "https://dictvm.org/posts/index.xml"
       rel: alternate
       type: application/rss+xml
     - name: "Github"
