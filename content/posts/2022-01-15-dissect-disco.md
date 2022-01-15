@@ -4,7 +4,7 @@ title: "A Youtube Video Essay Recommendation: Dissecting Discographies"
 date: 2022-01-15 01:00:00
 ---
 
-It's quite regretful when the trashiest people on the planet have millions of followers on social media and gems like YouTube channel [Dissecting the Disco](https://www.youtube.com/c/DissectingtheDisco/videos) doesn't even have more than a thousand subscribers. I want to change that, with the little reach I've got because their essay's are worth every minute spent on them.
+It's quite regretful when the most annoying people on the planet get to have millions of followers on social media and gems like YouTube channel [Dissecting the Disco](https://www.youtube.com/c/DissectingtheDisco/videos) doesn't even have more than a thousand subscribers. I want to change that, with the little reach I've got because their essay's are worth every minute spent on them.
 
 Their stated mission is to __"to document stories and topics that have not been transferred to video form, ultimately creating a library of unique mini-docs that highlight interesting and important artists."__ And boy do they deliver, without the annoying Youtube-style way of speaking or constantly reminding their audience to like and subscribe.
 
