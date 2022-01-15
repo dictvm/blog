@@ -16,4 +16,4 @@ When Bathory and Venom gained some popularity in the early 80s by establishing t
 
 Other essays cover stories such as the origins of the topic of [witchcraft getting a foothold](https://www.youtube.com/watch?v=nAj8KkUa2lM&t=2s) in the Metal genre, a closer look at the [history and lyrics of Jim Morisson](https://www.youtube.com/watch?v=5bUQUPUIB-E) (of The Doors fame), the scandal around the [original KISS logo in West Germany](https://www.youtube.com/watch?v=5UaBnxMD_4Y), a primer on the 60s Psyechedelic Rock band [West Coast Pop Art Experimental Band](https://www.youtube.com/watch?v=i_I1fmCKlUI) as well as the life of the band's leader/manager Bob Markley or how the Japanese Drone-Rock band [Les Rallizes Dénudés](https://youtu.be/BDpVnsH9y8c) was connected to a terrorist plane hijacking.
 
-I've discovered a lot of new music thanks to these video essays and this is the first time I've actually clicked on the fucking bell icon to receive notifications for new video releases.s
+I've discovered a lot of new music thanks to these video essays and this is the first time I've actually clicked on the fucking bell icon to receive notifications for new video releases.
