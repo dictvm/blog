@@ -1,0 +1,19 @@
+---
+layout: post
+title: "A Youtube Video Essay Recommendation: Dissecting Discographies"
+date: 2022-01-15 01:00:00
+---
+
+It's quite regretful when the most annoying people on the planet get to have millions of followers on social media and gems like YouTube channel [Dissecting the Disco](https://www.youtube.com/c/DissectingtheDisco/videos) doesn't even have more than a thousand subscribers. I want to change that, with the little reach I've got because their essay's are worth every minute spent on them.
+
+Their stated mission is to __"to document stories and topics that have not been transferred to video form, ultimately creating a library of unique mini-docs that highlight interesting and important artists."__ And boy do they deliver, without the annoying Youtube-style way of speaking or constantly reminding their audience to like and subscribe.
+
+If one were to start chronologically, join them into a deep dive into [the origins of Occult Rock of the 60s](https://www.youtube.com/watch?v=5Nkn8XP1zNk) that covers bands such as the rather infamous [Coven](https://en.wikipedia.org/wiki/Coven_(band)) but also relatively unknown acts such as [Black Widow](https://en.wikipedia.org/wiki/Black_Widow_(band)). Even if you're into Rock/Metal/Alternative music, you'll most likely learn something from this video essay. If you thought our oh so liberal democracies are really that free you'll be surprised that it just took some satanic imagery to get your music and concerts banned in a lot of western countries. 
+
+Remember the proto-Heavy Metal band [Budgie](https://www.metal-archives.com/bands/Budgie/1039), who had acts such as Judas Priest open for their concerts? *The* Bungie that had their songs covered by Metallica(!)? Who first brought Heavy Metal to the Soviet Union about 10 years before AC/DC, Metallica, et al played the infamous Monsters of Rock festival in 91? Well, neither does almost anyone else. Time to shed some light on [Budgie's history](https://www.youtube.com/watch?v=fvtlBmvHSxw). Unfortunately their lead singer and Bass player Burke Shelley recently died on the 10th of January 2022. RIP.
+
+When Bathory and Venom gained some popularity in the early 80s by establishing the first wave of what would later become today's Black Metal genre, a band called Exorcist released an album with a similar sound, albeit with the members being shrouded in complete mystery. It's quite the [interesting history lesson](https://www.youtube.com/watch?v=xmMHaW1Nk-Y). And speaking of Venom and Bathory, let yourself get educated on how these two bands also popularised the [story of the hungarian blood countess Bathory](https://www.youtube.com/watch?v=nAj8KkUa2lM&t=2s) as a lyrical theme. 
+
+Other essays cover stories such as the origins of the topic of [witchcraft getting a foothold](https://www.youtube.com/watch?v=nAj8KkUa2lM&t=2s) in the Metal genre, a closer look at the [history and lyrics of Jim Morisson](https://www.youtube.com/watch?v=5bUQUPUIB-E) (of The Doors fame), the scandal around the [original KISS logo in West Germany](https://www.youtube.com/watch?v=5UaBnxMD_4Y), a primer on the 60s Psyechedelic Rock band [West Coast Pop Art Experimental Band](https://www.youtube.com/watch?v=i_I1fmCKlUI) as well as the life of the band's leader/manager Bob Markley or how the Japanese Drone-Rock band [Les Rallizes Dénudés](https://youtu.be/BDpVnsH9y8c) was connected to a terrorist plane hijacking.
+
+I've discovered a lot of new music thanks to these video essays and this is the first time I've actually clicked on the fucking bell icon to receive notifications for new video releases.
