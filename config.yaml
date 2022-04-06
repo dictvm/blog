@@ -1,7 +1,6 @@
 baseurl: "/"
 title: Daniel Heitmann | dictvm
 theme: PaperMod
-googleAnalytics: UA-56464004-1
 languagecode: en
 defaultcontentlanguage: en
 paginate: 15
@@ -17,23 +16,22 @@ params:
     enabled: true
     imageUrl: images/daniel.jpg
     title: Hi and welcome!
-    subtitle: I'm Daniel, writing about topics ranging from Cloud Infrastructure, Site Reliability Engineering, bicycles, Black Metal, politics and whatever rabbit hole I'm following at the time.
+    subtitle: "Cloud Engineering, Antifascism, Politics, Cycling, Kung Fu & Black Metal."
 
   socialIcons: # optional
     - name: "RSS"
       url: "https://dictvm.org/posts/index.xml"
-      rel: alternate
-      type: application/rss+xml
+      rel: "alternate"
+      type: "application/rss+xml"
     - name: "Github"
       url: "https://github.com/dictvm"
+    - name: "Codeberg"
+      url: "https://codeberg.org/dictvm"      
     - name: "Mastodon"
       url: "https://chaos.social/web/accounts/319120"
     - name: "Medium"
       url: "https://medium.com/@dictvm"
 
-  keywords: >-
-    blog,developer,sre,sitereliabilityengineering,duesseldorf,personal,devops,sre,cloudcomputing,kubernetes,blackmetal
-  info: "Cloud, Coffee, Cycling, Veganism, Antifascism & Black Metal."
   subinfo: >-
     Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native
     Software, Cycling, Urban Development, Black Metal
@@ -53,16 +51,12 @@ menu:
     - name: About
       weight: 1
       url: about/
-    - name: Blog
+    - name: Posts
       weight: 2
       url: posts/
     - name: Projects
       weight: 3
       url: projects/
-    - name: Buy me a ☕
-      weight: 4
-      url: https://ko-fi.com/dictvm
-      rel: alternate
     - name: Reach out
-      weight: 5
+      weight: 4
       url: contact/
