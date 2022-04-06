@@ -26,16 +26,10 @@ params:
       type: application/rss+xml
     - name: "Github"
       url: "https://github.com/dictvm"
-    - name: "Twitter"
-      url: "https://twitter.com/dictvm"
-    - name: "Instagram"
-      url: "https://instagram.com/dictvm"
-    - name: "Ko-Fi"
-      url: "https://ko-fi.com/dictvm"
+    - name: "Mastodon"
+      url: "https://chaos.social/web/accounts/319120"
     - name: "Medium"
       url: "https://medium.com/@dictvm"
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/danielheitmannsre"
 
   keywords: >-
     blog,developer,sre,sitereliabilityengineering,duesseldorf,personal,devops,sre,cloudcomputing,kubernetes,blackmetal
