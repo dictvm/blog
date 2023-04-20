@@ -7,14 +7,11 @@ My name is Daniel Heitmann and I'm a freelance IT consultant.
 
 I previously worked under the umbrella of several roles such as Linux Systems Administrator, **Cloud Engineer**, **Site Reliability Engineer** and most recently as an **Engineering Manager** for a Cloud team. I consider myself a pragmatic generalist who cares deeply about people and results.
 
-I deeply care about products that truly deliver value to people.
-
-
 ## Vita
 Closing in on almost 20 years of experience, I started my career in tech in 2005 when I offered webhosting services for family, friends and local businesses on a personal server. This grew into a small business that I shut down in order to finish a 3 year apprenticeship from 2008 to 2011. Since then I worked for reputable companies such as Uberspace, InVision, trivago and HiveMQ in various capacities.
 
 ## Passion
-Providing reliable web services and building robust automation for complex systems are my core passions. I'm also experienced in leading engineering teams. I pride myself in resolving interpersonal conflicts, discovering talent for various engineering roles and being able to quickly dig into new areas.
+Providing reliable web services and building robust automation for complex systems are my core passions. I'm also experienced in leading engineering teams. I pride myself in resolving interpersonal conflicts, discovering talent for various engineering roles and being able to quickly dig into new areas. I deeply care about products that truly deliver value to people.
 
 ## Background
 
