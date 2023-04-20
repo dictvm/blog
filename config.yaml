@@ -1,5 +1,5 @@
 baseurl: "/"
-title: Daniel Heitmann | dictvm
+title: Daniel Heitmann
 theme: PaperMod
 languagecode: en
 defaultcontentlanguage: en
@@ -11,31 +11,27 @@ pygmentscodefencesguesssyntax: true
 permalinks:
   posts: "/posts/:title/"
 params:
-  author: Daniel Heitmann | dictvm
+  author: Daniel Heitmann
   profileMode:
     enabled: true
-    imageUrl: images/daniel.jpg
-    title: Hi and welcome!
-    subtitle: "Cloud Engineering, Antifascism, Politics, Cycling, Kung Fu & Black Metal."
+    imageUrl: images/daniel_closeup.jpg
+    title: I'm Daniel, hi!
+    subtitle: "**Available** for freelance work: Cloud Engineering, Engineering Management, Consulting"
 
   socialIcons: # optional
-    - name: "RSS"
-      url: "https://dictvm.org/posts/index.xml"
-      rel: "alternate"
-      type: "application/rss+xml"
-    - name: "Github"
-      url: "https://github.com/dictvm"
-    - name: "Codeberg"
-      url: "https://codeberg.org/dictvm"      
-    - name: "Mastodon"
-      url: "https://chaos.social/web/accounts/319120"
-    - name: "Medium"
-      url: "https://medium.com/@dictvm"
+  - name: "RSS"
+    url: "https://dictvm.org/posts/index.xml"
+    rel: "alternate"
+    type: "application/rss+xml"
+  - name: "Github"
+    url: "https://github.com/dictvm"
+  - name: "Codeberg"
+    url: "https://codeberg.org/dictvm"
+  - name: "Mastodon"
+    url: "https://chaos.social/web/accounts/319120"
 
   subinfo: >-
-    Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native
-    Software, Cycling, Urban Development, Black Metal
-
+    Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native Software #magic___^_^___line
   footercontent: ""
   dateformat: "January 2, 2006"
   hideCredits: false
@@ -48,15 +44,15 @@ params:
 
 menu:
   main:
-    - name: About
-      weight: 1
-      url: about/
-    - name: Posts
-      weight: 2
-      url: posts/
-    - name: Projects
-      weight: 3
-      url: projects/
-    - name: Reach out
-      weight: 4
-      url: contact/
+  - name: About
+    weight: 1
+    url: about
+  - name: Blog
+    weight: 2
+    url: posts
+  - name: Projects
+    weight: 3
+    url: projects
+  - name: Reach out!
+    weight: 4
+    url: contact
