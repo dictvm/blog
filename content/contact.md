@@ -18,11 +18,10 @@ Signal: [+49 174 2456550](tel:00491742456550)
 
 Telegram: [t.me/dictvm](https://t.me/@dictvm)
 
-Mail: [daniel@dictvm.org](mailto:daniel@dictvm.org)
+Mail: [daniel@horrendum.com](mailto:daniel@horrendum.com)
 
 ### Follow me
 * [Blog](https://blog.dictvm.org)
-* [Mastodon](https://chaos.social/web/accounts/319120)
 * [Codeberg](https://codeberg.org/dictvm)
 * [GitHub](https://github.com/dictvm)
 * [LinkedIn](https://www.linkedin.com/in/daniel-heitmann-sre)

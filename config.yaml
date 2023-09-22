@@ -16,7 +16,7 @@ params:
     enabled: true
     imageUrl: images/daniel_closeup.jpg
     title: I'm Daniel, hi!
-    subtitle: "**Available** for freelance work: Cloud Engineering, Engineering Management, Consulting"
+    subtitle: "**Available** for freelance work: Cloud Engineering, Engineering Management, Systems Administration, General IT Consulting"
 
   socialIcons: # optional
   - name: "RSS"
@@ -27,8 +27,6 @@ params:
     url: "https://github.com/dictvm"
   - name: "Codeberg"
     url: "https://codeberg.org/dictvm"
-  - name: "Mastodon"
-    url: "https://chaos.social/web/accounts/319120"
 
   subinfo: >-
     Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native Software #magic___^_^___line
