@@ -16,20 +16,22 @@ params:
     enabled: true
     imageUrl: images/daniel_closeup.jpg
     title: I'm Daniel, hi!
-    subtitle: "**Available** for freelance work: Cloud Engineering, Engineering Management, Systems Administration, General IT Consulting"
+    subtitle: Pragmatic Generalist | Consultant | Engineering Manager | Site Reliability Engineer
 
   socialIcons: # optional
-  - name: "RSS"
-    url: "https://dictvm.org/posts/index.xml"
-    rel: "alternate"
-    type: "application/rss+xml"
   - name: "Github"
     url: "https://github.com/dictvm"
   - name: "Codeberg"
     url: "https://codeberg.org/dictvm"
+  - name: "Mastodon"
+    url: "https://mastodon.horrendum.com/@dictvm"
+    rel: "me"
+  - name: "RSS"
+    url: "https://dictvm.org/posts/index.xml"
+    rel: "alternate"
+    type: "application/rss+xml"
 
-  subinfo: >-
-    Site Reliability Engineering, Consulting, Systems Architecture, Cloud-native Software #magic___^_^___line
+  subinfo:
   footercontent: ""
   dateformat: "January 2, 2006"
   hideCredits: false
@@ -51,6 +53,6 @@ menu:
   - name: Projects
     weight: 3
     url: projects
-  - name: Reach out!
+  - name: Contact
     weight: 4
     url: contact
