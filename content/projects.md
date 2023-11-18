@@ -3,7 +3,7 @@ title = "Projects"
 slug = "projects"
 +++
 
-02.2015 - now: [DevOps & Infrastructure Meetup NRW](https://www.meetup.com/devops-duesseldorf/)
+02.2015 - 05.2023: [DevOps & Infrastructure Meetup NRW](https://www.meetup.com/devops-duesseldorf/)
 
 After playing around with Ansible and getting more into the DevOps way of working, I decided to host the first Ansible Meetup at the Chaosdorf in Düsseldorf. If memory serves me right, we had about 20 attendees and it became clear that the hackspace was just too small for such events. Thankfully [sipgate](https://sipgate.com) was generous enough to offer their event location instead and they sponsored us for a couple of years. The meetup grew from 15-20 regular attendees to 50-70 and after a while the focus shifted away from Ansible and torwards a more general approach to infrastructure and cloud-native technologies. Thus, the DevOps & Infrastructure Meetup was born.
 
@@ -11,4 +11,6 @@ I've gotten to know a lot of talented and diverse people that I wouldn't have me
 
 Throughout the years we've had the pleasure of hosting speakers from companies like Google, Microsoft and Elastic as well as local companies like sipgate, Uberspace, bee42 and many more.
 
-*After being on a pandemic-induced hiatus for almost 3 years, the meetup has **been rebooted in January 2023**. We're being hosted by InVision and sipgate, jumping between each venue on a monthly basis.*
+After being on a pandemic-induced hiatus for almost 3 years, the meetup was rebooted in January 2023. We've been hosted by InVision and sipgate, jumping between each venue on a monthly basis.
+
+**The meetup has been officially cancelled after the final event on May 2023. Thanks so much to everyone who hosted us, helped with organizational tasks, gave talks, prepared amazing food and showed up. It wouldn't have been the same without all of you.**
