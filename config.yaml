@@ -1,5 +1,5 @@
 baseurl: "/"
-title: Daniel Heitmann
+title: Daniel's blog
 theme: PaperMod
 languagecode: en
 defaultcontentlanguage: en
@@ -8,8 +8,6 @@ canonifyurls: true
 pygmentsstyle: b2
 pygmentscodefences: true
 pygmentscodefencesguesssyntax: true
-permalinks:
-  posts: "/posts/:title/"
 params:
   author: Daniel's blog
   profileMode:
