@@ -16,7 +16,7 @@ params:
     enabled: true
     imageUrl: images/daniel_closeup.jpg
     title: This was Daniel's site
-    subtitle: It's read-only is unlikely to receive updates anymore.
+    subtitle: It's read-only and is unlikely to receive updates anymore.
 
   subinfo:
   footercontent: ""
