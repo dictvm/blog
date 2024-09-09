@@ -15,7 +15,11 @@ params:
     imageUrl: images/daniel_closeup.jpg
     title: This was Daniel's blog
     subtitle: It's read-only and is unlikely to receive updates anymore.
-
+  socialIcons: # optional
+  - name: "RSS"
+    url: "https://dictvm.org/posts/index.xml"
+    rel: "alternate"
+    type: "application/rss+xml"
   subinfo:
   footercontent: ""
   dateformat: "January 2, 2006"
@@ -32,3 +36,6 @@ menu:
   - name: Contact
     weight: 0
     url: contact
+  - name: Posts
+    weight: 1
+    url: posts
