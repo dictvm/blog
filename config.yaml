@@ -11,18 +11,18 @@ pygmentscodefencesguesssyntax: true
 permalinks:
   posts: "/posts/:title/"
 params:
-  author: Daniel Heitmann
+  author: Daniel's blog
   profileMode:
     enabled: true
     imageUrl: images/daniel_closeup.jpg
-    title: This was Daniel's site
+    title: This was Daniel's blog
     subtitle: It's read-only and is unlikely to receive updates anymore.
 
   subinfo:
   footercontent: ""
   dateformat: "January 2, 2006"
-  hideCredits: false
-  hideCopyright: false
+  hideCredits: true
+  hideCopyright: true
   defaultTheme: auto
   ShowReadingTime: true
   maxSeeAlsoItems: 5
@@ -32,5 +32,5 @@ params:
 menu:
   main:
   - name: Contact
-    weight: 4
+    weight: 0
     url: contact
