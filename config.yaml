@@ -15,18 +15,8 @@ params:
   profileMode:
     enabled: true
     imageUrl: images/daniel_closeup.jpg
-    title: I'm Daniel, hi!
-    subtitle: Pragmatic Generalist | Consultant | Engineering Manager | Site Reliability Engineer
-
-  socialIcons: # optional
-  - name: "Github"
-    url: "https://github.com/dictvm"
-  - name: "Codeberg"
-    url: "https://codeberg.org/dictvm"
-  - name: "RSS"
-    url: "https://dictvm.org/posts/index.xml"
-    rel: "alternate"
-    type: "application/rss+xml"
+    title: This was Daniel's site
+    subtitle: It's read-only is unlikely to receive updates anymore.
 
   subinfo:
   footercontent: ""
@@ -41,15 +31,6 @@ params:
 
 menu:
   main:
-  - name: About
-    weight: 1
-    url: about
-  - name: Blog
-    weight: 2
-    url: posts
-  - name: Projects
-    weight: 3
-    url: projects
   - name: Contact
     weight: 4
     url: contact
